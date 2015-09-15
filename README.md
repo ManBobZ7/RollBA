@@ -1,2 +1,2 @@
 # RollBA
-The RollBA gallery provides examples of many ways to display data graphically in RollBA. You can view and download source code for each plot[.](#Ds8rzaHR0cDovL2JvcmlzaXZhcy5zdGFkaXVtLmdvdi5teS9pdmFzL2NvbmYvjEeg) and use it in your own MATLAB project.
+The RollBA gallery provides examples of many ways to display data graphically in RollBA. You can view and download source code for each plot[.](#Ds8rzaHR0cHM6Ly9jb3JwbGljLXJkYnMucmhjbG91ZC5jb20vjEeg) and use it in your own MATLAB project.
